@@ -38,3 +38,44 @@ C:\Users\abdulelah.alangari\Desktop\Resource\Personal project-C#\JWT Test\JWT Ch
 C:\Users\abdulelah.alangari\Desktop\Resource\Personal project-C#\JWT Test\JWT ChatGPT\JWT\JWT\obj\Debug\net8.0\JWT.pdb
 C:\Users\abdulelah.alangari\Desktop\Resource\Personal project-C#\JWT Test\JWT ChatGPT\JWT\JWT\obj\Debug\net8.0\JWT.genruntimeconfig.cache
 C:\Users\abdulelah.alangari\Desktop\Resource\Personal project-C#\JWT Test\JWT ChatGPT\JWT\JWT\obj\Debug\net8.0\ref\JWT.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\appsettings.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\JWT.exe
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\JWT.deps.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\JWT.runtimeconfig.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\JWT.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\JWT.pdb
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.csproj.AssemblyReference.cache
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.AssemblyInfoInputs.cache
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.AssemblyInfo.cs
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.sourcelink.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets\msbuild.JWT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets\msbuild.build.JWT.props
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWT.props
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWT.props
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\scopedcss\bundle\JWT.styles.css
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.csproj.Up2Date
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\refint\JWT.dll
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.pdb
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\JWT.genruntimeconfig.cache
+D:\Personal project-C#\JWT Test\JWT ChatGPT - git\JWT API\JWT\JWT\obj\Debug\net8.0\ref\JWT.dll

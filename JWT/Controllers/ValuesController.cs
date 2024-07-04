@@ -9,6 +9,7 @@ namespace JWT.Controllers
     public class ValuesController : ControllerBase
     {
         //This is to verify the token
+        //Url: api/Values
         [HttpGet]
         public IActionResult Get()
         {

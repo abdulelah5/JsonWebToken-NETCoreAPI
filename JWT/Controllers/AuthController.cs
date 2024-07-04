@@ -23,6 +23,7 @@ namespace JWT.Controllers
         }
 
         //This is to generate the token
+        ///Url: api/auth/login
         [HttpPost("login")]
         [AllowAnonymous]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
