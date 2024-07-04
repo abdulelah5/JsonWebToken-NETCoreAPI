@@ -11,16 +11,13 @@ namespace JWT
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
             builder.Services.AddControllers();
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            //JWT _______________________________________________________________________________________
-            var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]!);
+            //JWT Start _____________________________________________________________________
+            var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]!); //get your key
 
             builder.Services.AddAuthentication(options =>
             {
@@ -62,7 +59,7 @@ namespace JWT
         });
 
             builder.Services.AddAuthorization();
-            //JWT End ____________________________________________________________________________________
+            //JWT End _____________________________________________________________________
 
             var app = builder.Build();
 
@@ -74,7 +71,7 @@ namespace JWT
             }
 
             app.UseHttpsRedirection();
-            app.UseAuthentication(); //JWT ____________________________________________________________________________________
+            app.UseAuthentication(); //JWT __________________________________________________
             app.UseAuthorization();
 
 

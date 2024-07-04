@@ -22,10 +22,12 @@ namespace JWT.Controllers
             _configuration = configuration;
         }
 
+        //This is to generate the token
         [HttpPost("login")]
         [AllowAnonymous]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
         {
+            //Use your way to check your user such as: active directory, DB etc..
             if (model.Username == "testuser" && model.Password == "password")
             {
                 var token = GenerateJwtToken(model.Username);
