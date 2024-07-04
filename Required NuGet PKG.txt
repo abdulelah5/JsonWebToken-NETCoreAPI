@@ -1,0 +1,2 @@
+1- Microsoft.AspNetCore.Authentication.JwtBearer
+//2- Microsoft.IdentityModel.Tokens -> Not for .NET 8
